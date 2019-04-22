@@ -1,0 +1,3 @@
+id:integer:pk
+nam:varchar
+age:integer
